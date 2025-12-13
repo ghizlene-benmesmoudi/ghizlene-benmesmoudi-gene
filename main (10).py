@@ -6,7 +6,7 @@
 #                     - MOUMENI ROUMAISSA AICHA
 #                     - BENSALAH YOUSRA
 import pandas as pd
-# Données de départ
+# Données de 
 sequences = [
     "ATGCGTACGTA",
     "GCTAGCTAGGCC",
@@ -15,7 +15,9 @@ sequences = [
     "ATGAAAGGCTT",
     "CGTACGTAGC",
     "TTAACCGGAT"
-]
+],
+"longueur" :[12,12,12,10,11,10,10],
+"pourcentage de GC": [50,60,67,58,33,40,45,45,60,50]
 # Question 1 : Créer et afficher le DataFrame
 df = pd.DataFrame({"Sequence": sequences})
 print("Question 1 :")
