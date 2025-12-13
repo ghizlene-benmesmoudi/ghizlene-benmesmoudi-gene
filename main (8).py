@@ -3,14 +3,6 @@
 # M1 Génétique....13/12/2025
 
 # Membres de projet : - MOUMENI  ROUMAISSA AICHA 
-                   
-#                     -  BENMESMOUDI Ghizlene
-
-#                     - MOSTEFAOUI MARWA
-
-#                     - BADAOUI FATIMA ZOHRA
-
-#                     - BENSALAH YOUSRA
 
 import pandas as pd
 
