@@ -6,7 +6,7 @@
 #                     - MOUMENI ROUMAISSA AICHA
 #                     - BENSALAH YOUSRA
 import pandas as pd
-# Données de 
+# Données de Départ
 sequences = [
     "ATGCGTACGTA",
     "GCTAGCTAGGCC",
