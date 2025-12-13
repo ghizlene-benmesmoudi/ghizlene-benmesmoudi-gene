@@ -2,7 +2,7 @@
 
 # M1 Génétique....13/12/2025
 
-# Membres de projet : - MOUMENI  ROUMAISSA AICHA 
+# Pandas with MOUMENI  ROUMAISSA AICHA 
 
 import pandas as pd
 
